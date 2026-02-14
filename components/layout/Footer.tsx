@@ -25,8 +25,8 @@ export default function Footer() {
               data bundles, and exam scratch cards with ease.
             </p>
                <p className="text-gray-400 mb-4 max-w-md">
-              A modern bill payment platform. Pay bills, buy airtime,
-              data bundles, and exam scratch cards with.
+              A modern bill payment platform. Pay, buy airtime,
+              data bundles, and exam scratch cards.
             </p>
             <div className="flex items-center gap-4">
               <a href="#" className="p-2 rounded-lg hover:bg-gray-800 transition-colors">
