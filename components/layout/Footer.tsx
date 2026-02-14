@@ -83,7 +83,7 @@ export default function Footer() {
         <div className="mt-8 pt-8 border-t border-gray-800">
           <div className="bg-yellow-900/30 border border-yellow-700/50 rounded-lg p-4 mb-6">
             <p className="text-yellow-300 text-sm text-center">
-              <strong>Important Notice:</strong> This is a decent front-end personal project. It is a prototype for UI/UX demonstration. It is not connected to any backend or live services. No transactions or purchases are possible.
+              <strong>Important Notice:</strong> This is a front-end personal project. It is a prototype for UI/UX demonstration. It is not connected to any backend or live services. No transactions or purchases are possible.
             </p>
           </div>
           <p className="text-gray-500 text-sm text-center">
