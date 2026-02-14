@@ -24,10 +24,6 @@ export default function Footer() {
               A modern bill payment platform for Nigeria. Pay bills, buy airtime,
               data bundles, and exam scratch cards with ease.
             </p>
-               <p className="text-gray-400 mb-4 max-w-md">
-              A modern bill payment platform. Pay, buy airtime,
-              data bundles, and exam scratch.
-            </p>
             <div className="flex items-center gap-4">
               <a href="#" className="p-2 rounded-lg hover:bg-gray-800 transition-colors">
                 <Twitter className="w-5 h-5" />
