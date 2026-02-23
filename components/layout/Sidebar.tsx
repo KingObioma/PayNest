@@ -8,7 +8,7 @@ import {
   Wallet,
   CreditCard,
   Receipt,
-  Use,
+  User,
   LogOut,
   ChevronLeft,
   ChevronRight,
