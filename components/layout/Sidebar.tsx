@@ -10,7 +10,7 @@ import {
   Receipt,
   User,
   LogOut,
-  light,
+  ChevronLeft,
   ChevronRight,
 } from 'lucide-react';
 import { useState } from 'react';
