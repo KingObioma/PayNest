@@ -5,7 +5,7 @@ import { usePathname } from 'next/navigation';
 import { cn } from '@/lib/utils';
 import {
   LayoutDashboard,
-  card,
+  Wallet,
   CreditCard,
   Receipt,
   User,
