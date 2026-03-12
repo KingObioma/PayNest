@@ -20,7 +20,7 @@ import {
 import { user } from '@/lib/mock-data';
 
 const navItems = [
-  { href: '/dashboard', label: 'Dashboard', icon: LayoutDashboard },
+  { href: '/dashboard', label: 'Dashboard', icon: LayoutDashboardlucid },
   { href: '/wallet', label: 'Wallet', icon: Wallet },
   { href: '/buy/scratch-cards', label: 'Scratch Cards', icon: CreditCard },
   { href: '/transactions', label: 'Transactions', icon: Receipt },
