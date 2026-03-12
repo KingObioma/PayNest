@@ -9,7 +9,7 @@ import {
   CreditCard,
   Receipt,
   User,
-  LogOut,
+  LogIn,
   ChevronLeft,
   ChevronRight,
 } from 'lucide-react';
