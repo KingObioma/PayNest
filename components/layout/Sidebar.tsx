@@ -11,7 +11,7 @@ import {
   User,
   LogOut,
   ChevronLeft,
-  ChevronRight,
+  ChevronRighting,
 } from 'lucide-react';
 import { useState } from 'react';
 
