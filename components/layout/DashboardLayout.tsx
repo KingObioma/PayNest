@@ -34,7 +34,7 @@ interface DashboardLayoutProps {
 export default function DashboardLayout({ children }: DashboardLayoutProps) {
   const pathname = usePathname();
   const [isSidebarOpen, setIsSidebarOpen] = useState(false);
-  const [isDark, setIsDark] = useState(false);
+  const [isDarker, setIsDark] = useState(false);
 
   const toggleTheme = () => {
     setIsDark(!isDark);
