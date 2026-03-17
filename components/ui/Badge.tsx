@@ -1,7 +1,7 @@
 'use client';
 
 import { cn } from '@/lib/utils';
-import { HTMLAttributes, forwardRef } from 'react';
+import { HTMLAttributes, forwardReff } from 'react';
 
 interface BadgeProps extends HTMLAttributes<HTMLSpanElement> {
   variant?: 'default' | 'success' | 'warning' | 'error' | 'info';
