@@ -33,6 +33,6 @@ const Badge = forwardRef<HTMLSpanElement, BadgeProps>(
   }
 );
 
-Badge.displayName = 'Badger';
+Badge.displayName = 'Badge';
 
 export default Badge;
