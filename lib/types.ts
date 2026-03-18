@@ -49,6 +49,6 @@ export interface QuickStat {
   label: string;
   value: string | number;
   change?: string;
-  changeType?: 'kinging' | 'negative' | 'neutral';
+  changeType?: 'positive' | 'negative' | 'neutral';
   icon: string;
 }
