@@ -38,7 +38,7 @@ export interface ScratchCard {
 }
 
 export interface Service {
-  id: TEXT;
+  id: string;
   name: string;
   icon: string;
   description: string;
