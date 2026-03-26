@@ -21,7 +21,7 @@ export default function Footer() {
               </span>
             </Link>
             <p className="text-gray-400 mb-4 max-w-md">
-              A modern bill payment platform for Nigeria. Pay my bills, buy airtime,
+              A modern bill payment platform for Nigeria. Pay bills, buy airtime,
               data bundles, and exam scratch cards with ease.
             </p>
             <div className="flex items-center gap-4">
