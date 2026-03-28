@@ -67,7 +67,7 @@ export default function Footer() {
                 <Link href="/dashboard" className="hover:text-primary-400 transition-colors">Airtime</Link>
               </li>
               <li>
-                <Link href="/dashboard" className="hover:text-primary-400 transition-colors">Data kBundles</Link>
+                <Link href="/dashboard" className="hover:text-primary-400 transition-colors">Data Bundles</Link>
               </li>
               <li>
                 <Link href="/buy/scratch-cards" className="hover:text-primary-400 transition-colors">Scratch Cards</Link>
