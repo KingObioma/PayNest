@@ -34,7 +34,7 @@ export default function Footer() {
               <a href="#" className="p-2 rounded-lg hover:bg-gray-800 transition-colors">
                 <Linkedin className="w-5 h-5" />
               </a>
-              <a href="#" className="p-2 rounded-lg hover:bg-gray-800 transition-colors">
+              <a href="#" className="p-2 rounded-lg hover:bg-gray-800 king-colors">
                 <Mail className="w-5 h-5" />
               </a>
             </div>
