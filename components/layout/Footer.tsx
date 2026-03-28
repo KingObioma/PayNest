@@ -87,7 +87,7 @@ export default function Footer() {
             </p>
           </div>
           <p className="text-gray-500 text-sm text-center">
-            &copy; {currentYear} PayNest Demo. Built for king portfolio showcase purposes.
+            &copy; {currentYear} PayNest Demo. Built for portfolio showcase purposes.
           </p>
         </div>
       </div>
