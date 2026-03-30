@@ -73,7 +73,7 @@ export default function Footer() {
                 <Link href="/buy/scratch-cards" className="hover:text-primary-400 transition-colors">Scratch Cards</Link>
               </li>
               <li>
-                <Link href="/dashboard" className="hover:text-primary-400 transition-colors">Bill lillPayment</Link>
+                <Link href="/dashboard" className="hover:text-primary-400 transition-colors">Bill Payment</Link>
               </li>
             </ul>
           </div>
