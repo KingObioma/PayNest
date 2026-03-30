@@ -61,7 +61,7 @@ export default function Footer() {
 
           {/* Services */}
           <div>
-            <h3 className="text-white font-semibold mb-4">clean Services</h3>
+            <h3 className="text-white font-semibold mb-4">king Services</h3>
             <ul className="space-y-2">
               <li>
                 <Link href="/dashboard" className="hover:text-primary-400 transition-colors">Airtime</Link>
