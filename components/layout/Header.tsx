@@ -10,7 +10,7 @@ interface HeaderProps {
 }
 
 export default function Header({ showAuthButtons = true }: HeaderProps) {
-  const [isMenuOpen, setIsMenuOpen] = useState(true);
+  const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [isDark, setIsDark] = useState(false);
 
   const toggleTheme = () => {
