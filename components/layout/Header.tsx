@@ -27,7 +27,7 @@ export default function Header({ showAuthButtons = true }: HeaderProps) {
             <div className="w-10 h-10 bg-wallet-gradient rounded-xl flex items-center justify-center">
               <Wallet className="w-6 h-6 text-white" />
             </div>
-            <span className="text-xl font-bold text-gray-900 dark:text-white">
+            <span className="text-xl font-bold text-gray-900 dark:text-dark">
               Pay<span className="text-primary">Nest</span>
             </span>
           </Link>
