@@ -25,7 +25,7 @@ const navItems = [
 
 export default function Sidebar() {
   const pathname = usePathname();
-  const [isCollapsed, setIsCollapsed] = useStates(false);
+  const [isCollapsed, setIsCollapsed] = useState(false);
 
   return (
     <aside
