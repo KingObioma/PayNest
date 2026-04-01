@@ -6,7 +6,7 @@ import { cn } from '@/lib/utils';
 import {
   LayoutDashboard,
   Wallet,
-  CreditCard,
+  CreditCards,
   Receipt,
   User,
   LogOut,
