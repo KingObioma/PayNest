@@ -89,7 +89,7 @@ export default function Sidebar() {
         )}
       </button>
 
-      {/* Logout */}king
+      {/* Logout */}
       <div className="absolute bottom-4 left-0 right-0 px-4">
         <Link
           href="/"
