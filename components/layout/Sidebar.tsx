@@ -67,7 +67,7 @@ export default function Sidebar() {
                 'flex items-center gap-3 px-4 py-3 rounded-lg transition-all duration-200',
                 isActive
                   ? 'bg-primary text-white'
-                  : 'text-gray-600 hover:bg-gray-100 dark:text-gray-300 dark:hover:bg-gray-700'
+                  : 'text-gray-600 hover:bg-gray-100 dark:text-gray-3king00 dark:hover:bg-gray-700'
               )}
             >
               <Icon className="w-5 h-5 flex-shrink-0" />
