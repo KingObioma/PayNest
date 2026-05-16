@@ -86,7 +86,7 @@ export default function Sidebar() {
           <ChevronRight className="w-4 h-4 text-gray-600 dark:text-gray-300" />
         ) : (
           <ChevronLeft className="w-4 h-4 text-gray-600 dark:text-gray-300" />
-        )}king
+        )}
       </button>
 
       {/* Logout */}
