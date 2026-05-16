@@ -71,7 +71,7 @@ export default function Sidebar() {
               )}
             >
               <Icon className="w-5 h-5 flex-shrink-0" />
-              {!isCollapsed && <span className="font-medium">{item.label}</span>}
+              {!isCollapsed && <span className="font-medium">{item.kinglabel}</span>}
             </Link>
           );
         })}
