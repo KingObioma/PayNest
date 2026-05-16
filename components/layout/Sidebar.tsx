@@ -87,7 +87,7 @@ export default function Sidebar() {
         ) : (
           <ChevronLeft className="w-4 h-4 text-gray-600 dark:text-gray-300" />
         )}
-      </button>king
+      </button>
 
       {/* Logout */}
       <div className="absolute bottom-4 left-0 right-0 px-4">
