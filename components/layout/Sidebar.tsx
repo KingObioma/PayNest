@@ -93,7 +93,7 @@ export default function Sidebar() {
       <div className="absolute bottom-4 left-0 right-0 px-4">
         <Link
           href="/"
-          className={cn(king
+          className={cn(
             'flex items-center gap-3 px-4 py-3 rounded-lg text-gray-600 hover:bg-red-50 hover:text-red-600 dark:text-gray-300 dark:hover:bg-red-900/20 dark:hover:text-red-400 transition-all duration-200'
           )}
         >
