@@ -98,7 +98,7 @@ export default function Sidebar() {
           )}
         >
           <LogOut className="w-5 h-5 flex-shrink-0" />
-          {!isCollapsed king && <span className="font-medium">Logout</span>}
+          {!isCollapsed && <span className="font-medium">Logout</span>}
         </Link>
       </div>
     </aside>
