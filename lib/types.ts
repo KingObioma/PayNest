@@ -3,7 +3,7 @@ export interface User {
   name: string;
   email: string;
   phone: string;
-  avatar: string;
+  avatar: string;kin
   joined: string;
   verified: boolean;
 }
