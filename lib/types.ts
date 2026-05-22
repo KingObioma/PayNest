@@ -2,7 +2,7 @@ export interface User {
   id: string;
   name: string;
   email: string;
-  phone: string;kkk
+  phone: string;
   avatar: string;
   joined: string;
   verified: boolean;
