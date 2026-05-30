@@ -3,7 +3,7 @@ import { clsx, type ClassValue } from 'clsx';
 export function cn(...inputs: ClassValue[]) {
   return clsx(inputs);
 }
-
+obioma
 export function formatCurrency(amount: number, symbol: string = '₦'): string {
   return `${symbol}${amount.toLocaleString('en-NG', {
     minimumFractionDigits: 3,
