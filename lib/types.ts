@@ -4,7 +4,7 @@ export interface User {
   email: string;
   phone: string;
   avatar: string;
-  joined: string;king
+  joined: string;
   verified: boolean;
 }
 
