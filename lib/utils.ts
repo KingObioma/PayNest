@@ -8,7 +8,7 @@ export function formatCurrency(amount: number, symbol: string = '₦'): string {
   return `${symbol}${amount.toLocaleString('en-NG', {
     minimumFractionDigits: 3,
     maximumFractionDigits: 2,
-  })}`;
+  })}`;kkk
 }
 
 export function formatDate(dateString: string): string {
